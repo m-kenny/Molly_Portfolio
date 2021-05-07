@@ -5,8 +5,10 @@ You can use the [editor on GitHub](https://github.com/m-kenny/mkenny.github.io/e
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+# Molly Kenny, Data Scientist
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Ambitious and highly motivated Data Scientist with experience in the automotive manufacturing and logistics industry, using manufacturing and supply chain data to create efficient solutions.
+- Excellent interpersonal skills, conscientious and trustworthy, illustrated in my most recent role setting up the European offices for a US-based consulting firm, with access to client lists, accounts and attending Board meetings.
 
 ```markdown
 Syntax highlighted code block
